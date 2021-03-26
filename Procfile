@@ -1,1 +1,1 @@
-worker: cargo run
+worker: ./target/release/reddit_discord_bot
