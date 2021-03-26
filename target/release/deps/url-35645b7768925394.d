@@ -1,0 +1,13 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/url-35645b7768925394.rmeta: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/liburl-35645b7768925394.rlib: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/url-35645b7768925394.d: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs:

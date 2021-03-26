@@ -1,0 +1,12 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/httparse-2d3c6bb680e2b952.rmeta: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/libhttparse-2d3c6bb680e2b952.rlib: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/httparse-2d3c6bb680e2b952.d: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs:

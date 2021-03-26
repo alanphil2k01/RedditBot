@@ -1,0 +1,13 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/memchr-5049a1d509fb2993.rmeta: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/libmemchr-5049a1d509fb2993.rlib: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/memchr-5049a1d509fb2993.d: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs:

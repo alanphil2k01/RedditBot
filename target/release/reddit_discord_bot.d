@@ -1,0 +1,1 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/reddit_discord_bot: /home/alan/mount/win2/rust/reddit_discord_bot/src/commands.rs /home/alan/mount/win2/rust/reddit_discord_bot/src/main.rs /home/alan/mount/win2/rust/reddit_discord_bot/src/scraper.rs

@@ -1,0 +1,11 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/tokio_rustls-4b3630909aa445ad.rmeta: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/libtokio_rustls-4b3630909aa445ad.rlib: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/tokio_rustls-4b3630909aa445ad.d: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs:

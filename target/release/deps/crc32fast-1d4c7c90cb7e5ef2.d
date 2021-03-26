@@ -1,0 +1,12 @@
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/crc32fast-1d4c7c90cb7e5ef2.rmeta: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/baseline.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/combine.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/table.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/pclmulqdq.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/libcrc32fast-1d4c7c90cb7e5ef2.rlib: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/baseline.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/combine.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/table.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/pclmulqdq.rs
+
+/home/alan/mount/win2/rust/reddit_discord_bot/target/release/deps/crc32fast-1d4c7c90cb7e5ef2.d: /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/lib.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/baseline.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/combine.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/mod.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/table.rs /home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/pclmulqdq.rs
+
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/lib.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/baseline.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/combine.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/mod.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/table.rs:
+/home/alan/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.2.1/src/specialized/pclmulqdq.rs:
